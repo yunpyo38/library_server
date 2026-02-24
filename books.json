@@ -1,0 +1,10 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "C Programming",
+      "author": "Yoon Sung-woo",
+      "available": 1
+    }
+  ]
+}
